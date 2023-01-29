@@ -16,3 +16,5 @@
     My dream college is: M.I.T
   </li>
 </ul>
+
+<p>Feel free to message me on Discord if you have any questions!</p>
