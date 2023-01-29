@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there, im Trent! 👋🏼
 
-<!--
-**trent200/trent200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  I am an aspiring 13yo software developer. 
+  <br/>
+  Here's some stuff about me that you might want to know:
+</p>
+<ul>
+  <li>
+    My Discord is: trent#5576 📩
+  </li>
+  <li>
+    I am currently coding: Cloud RAT
+  </li>
+  <li>
+    My dream college is: M.I.T
+  </li>
+</ul>
